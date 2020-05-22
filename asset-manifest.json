@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-snake-game/static/css/main.8563c2c8.chunk.css",
+    "main.js": "/react-snake-game/static/js/main.f886218c.chunk.js",
+    "main.js.map": "/react-snake-game/static/js/main.f886218c.chunk.js.map",
+    "runtime-main.js": "/react-snake-game/static/js/runtime-main.6848036d.js",
+    "runtime-main.js.map": "/react-snake-game/static/js/runtime-main.6848036d.js.map",
+    "static/js/2.6e0b983d.chunk.js": "/react-snake-game/static/js/2.6e0b983d.chunk.js",
+    "static/js/2.6e0b983d.chunk.js.map": "/react-snake-game/static/js/2.6e0b983d.chunk.js.map",
+    "index.html": "/react-snake-game/index.html",
+    "precache-manifest.38b709e44c26737f435738130c667f8e.js": "/react-snake-game/precache-manifest.38b709e44c26737f435738130c667f8e.js",
+    "service-worker.js": "/react-snake-game/service-worker.js",
+    "static/css/main.8563c2c8.chunk.css.map": "/react-snake-game/static/css/main.8563c2c8.chunk.css.map",
+    "static/js/2.6e0b983d.chunk.js.LICENSE.txt": "/react-snake-game/static/js/2.6e0b983d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6848036d.js",
+    "static/js/2.6e0b983d.chunk.js",
+    "static/css/main.8563c2c8.chunk.css",
+    "static/js/main.f886218c.chunk.js"
+  ]
+}
